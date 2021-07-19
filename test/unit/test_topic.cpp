@@ -22,7 +22,7 @@
 #include <algorithm>
 #include <memory>
 #include <stdexcept>
-#include "catch2/catch.hpp"
+#include "catch.hpp"
 #include "mqtt/topic.h"
 #include "mock_async_client.h"
 

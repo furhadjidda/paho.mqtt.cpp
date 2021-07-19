@@ -22,7 +22,7 @@
  *******************************************************************************/
 #define UNIT_TESTS
 
-#include "catch2/catch.hpp"
+#include "catch.hpp"
 #include "mqtt/iasync_client.h"
 #include "mqtt/async_client.h"
 #include "mock_persistence.h"

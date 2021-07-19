@@ -23,7 +23,7 @@
 
 #define UNIT_TESTS
 
-#include "catch2/catch.hpp"
+#include "catch.hpp"
 #include "mqtt/ssl_options.h"
 
 using namespace std::chrono;

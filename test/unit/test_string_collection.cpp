@@ -24,7 +24,7 @@
 
 #include <vector>
 #include <cstring>
-#include "catch2/catch.hpp"
+#include "catch.hpp"
 #include "mqtt/string_collection.h"
 
 using namespace mqtt;

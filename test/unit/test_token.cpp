@@ -28,7 +28,7 @@
 #define UNIT_TESTS
 
 #include <cstring>
-#include "catch2/catch.hpp"
+#include "catch.hpp"
 #include "mqtt/token.h"
 #include "mock_async_client.h"
 #include "mock_action_listener.h"

@@ -25,7 +25,7 @@
 #define UNIT_TESTS
 
 #include <cstring>
-#include "catch2/catch.hpp"
+#include "catch.hpp"
 #include "mqtt/exception.h"
 
 using namespace mqtt;

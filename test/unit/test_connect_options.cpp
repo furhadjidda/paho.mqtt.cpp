@@ -22,7 +22,7 @@
 
 #define UNIT_TESTS
 
-#include "catch2/catch.hpp"
+#include "catch.hpp"
 #include "mqtt/connect_options.h"
 #include "mock_async_client.h"
 
